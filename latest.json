@@ -1,9 +1,4 @@
 {
-  "version": "0.0.2",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v0.0.2/BlobForge-0.0.2.zip",
-  "notes": "One file changed",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v0.0.2/files.json",
-  "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "656c0c8fb3db503c687e42b82912045fe9eacc828a1706004adcdaab3c011e74",
-  "zip_size": 1432541
+  "version": "0.0.0",
+  "notes": "No release published yet."
 }
