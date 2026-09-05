@@ -1,9 +1,9 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.2/BlobForge-1.2.2.zip",
-  "notes": "Your pages and their followers, on the home page",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.2/files.json",
+  "version": "1.2.3",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.3/BlobForge-1.2.3.zip",
+  "notes": "The update really does install itself now",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.3/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "159a2c21be5f983e61c6fe6ffb9623572cd988aa4a87f4b07eb5facc1711c724",
-  "zip_size": 570815854
+  "sha256": "3174b5efcec5f56182c4a46edb9738a8296ef18e540ac7f5f24ac3a8c20a35e5",
+  "zip_size": 570817179
 }
