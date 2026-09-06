@@ -1,9 +1,9 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.5/BlobForge-1.2.5.zip",
-  "notes": "The updater stops fighting the app that restarts it",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.5/files.json",
+  "version": "1.2.6",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.6/BlobForge-1.2.6.zip",
+  "notes": "The app says so when an update could not install",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.6/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "a4d9c74bb76e934bf6c0476611b344450f202f726353b7838f3497bc84780c38",
-  "zip_size": 570822311
+  "sha256": "98723deb91a3bebe1f6b37f0b42908964a96b4d4ed861fdd1f50368024f9e74d",
+  "zip_size": 570827885
 }
