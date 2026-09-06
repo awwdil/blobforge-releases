@@ -1,9 +1,9 @@
 {
-  "version": "1.2.8",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.8/BlobForge.zip",
-  "notes": "Name a character first, add its poses after \u2014 and deleted ones stay deleted",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.8/files.json",
+  "version": "1.2.9",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.9/BlobForge.zip",
+  "notes": "The Poses tab opens again, and deleted characters stay gone",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.9/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "23d1f1f9b50afd896f2cdf0d0c628e3a9ed4de458b441797a2e52f28465cdfea",
-  "zip_size": 570868527
+  "sha256": "d0f0315d58f18dbda2dbad225db02319ec2d733d33ce1dcad83d67194966d17c",
+  "zip_size": 554019314
 }
