@@ -1,9 +1,9 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.6/BlobForge-1.2.6.zip",
-  "notes": "The app says so when an update could not install",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.6/files.json",
+  "version": "1.2.7",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.7/BlobForge.zip",
+  "notes": "Each pose's prompt sits next to the box you drop it into",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.7/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "98723deb91a3bebe1f6b37f0b42908964a96b4d4ed861fdd1f50368024f9e74d",
-  "zip_size": 570827885
+  "sha256": "2d49c035d1b4061e544f18acb191bf851f8c22ae3ac58733d1b2e22fddde804b",
+  "zip_size": 570827701
 }
