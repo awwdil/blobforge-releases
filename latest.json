@@ -1,9 +1,9 @@
 {
-  "version": "1.2.7",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.7/BlobForge.zip",
-  "notes": "Each pose's prompt sits next to the box you drop it into",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.7/files.json",
+  "version": "1.2.8",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.8/BlobForge.zip",
+  "notes": "Name a character first, add its poses after \u2014 and deleted ones stay deleted",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.8/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "2d49c035d1b4061e544f18acb191bf851f8c22ae3ac58733d1b2e22fddde804b",
-  "zip_size": 570827701
+  "sha256": "23d1f1f9b50afd896f2cdf0d0c628e3a9ed4de458b441797a2e52f28465cdfea",
+  "zip_size": 570868527
 }
