@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.4/BlobForge-1.2.4.zip",
-  "notes": "Add a character with all its poses, not three",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.4/files.json",
+  "version": "1.2.5",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.5/BlobForge-1.2.5.zip",
+  "notes": "The updater stops fighting the app that restarts it",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.2.5/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "fa88665316d78e0c46661b62c1130367dff471a3b12a070d993f242dc906839d",
-  "zip_size": 570822006
+  "sha256": "a4d9c74bb76e934bf6c0476611b344450f202f726353b7838f3497bc84780c38",
+  "zip_size": 570822311
 }
