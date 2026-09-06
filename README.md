@@ -23,6 +23,23 @@ to bookmark or pass on.
 Your videos, topics and settings live in `%LOCALAPPDATA%\Conveyor`, outside the
 program folder, so nothing you make is ever touched by an update.
 
+## If nothing happens when you run it
+
+Two things can get in the way on a fresh Windows machine, and neither means
+the download is broken.
+
+**"Windows protected your PC".** The app is not code-signed, so Windows warns
+about it. Click **More info**, then **Run anyway**.
+
+**The app seems to start but no window appears.** Some PCs do not have
+Microsoft's WebView2 runtime, which is what BlobForge draws its window with.
+Run **`launch.bat`** in the same folder instead — the app opens in your browser
+and works exactly the same. To get the proper window, install WebView2 (free,
+from Microsoft) and then run `BlobForge.exe` again:
+
+https://developer.microsoft.com/microsoft-edge/webview2/ — the "Evergreen
+Standalone Installer" for x64.
+
 ## Updates
 
 You do not download this page again. When a new version is published the app
