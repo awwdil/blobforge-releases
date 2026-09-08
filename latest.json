@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.4.0/BlobForge.zip",
-  "notes": "Your Facebook and YouTube connections now survive an update -- they were being deleted by every single update before this. Also: leaving the Create page no longer loses your work, a replaced pose picture actually shows, you can type a character's handle instead of only picking one, there is finally a place to put a Pexels key, and finished videos are listed newest first.",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.4.0/files.json",
+  "version": "1.5.0",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.5.0/BlobForge.zip",
+  "notes": "Connect Facebook now works from the app itself -- until now it only worked from a browser, and the app window was the one place it failed. Also: a new Facebook app that lacks the insights permission no longer blocks the whole login, the app tells you straight away if you paste a User token instead of a Page token, the post-after-rendering checkbox works even if you connect the page afterwards, and a PC without WebView2 opens in the browser instead of showing nothing at all.",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.5.0/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "ece01a8cebdca34f68394cb375256187494c815baa1413bb577d238d4d8b9e11",
-  "zip_size": 573297480
+  "sha256": "cd741de99aa4b4609577e9809c7ce756aede8597c4e2ada244b2a6857a8d477b",
+  "zip_size": 573306322
 }
