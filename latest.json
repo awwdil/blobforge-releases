@@ -5,5 +5,11 @@
   "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.5.0/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
   "sha256": "cd741de99aa4b4609577e9809c7ce756aede8597c4e2ada244b2a6857a8d477b",
-  "zip_size": 573306322
+  "zip_size": 573306322,
+  "announcement": {
+    "id": "20260908175953",
+    "text": "Test line - ignore, clearing in a moment",
+    "url": "https://example.com",
+    "posted": "2026-09-08T17:59:53+00:00"
+  }
 }
