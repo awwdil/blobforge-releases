@@ -1,9 +1,9 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.5.0/BlobForge.zip",
-  "notes": "Connect Facebook now works from the app itself -- until now it only worked from a browser, and the app window was the one place it failed. Also: a new Facebook app that lacks the insights permission no longer blocks the whole login, the app tells you straight away if you paste a User token instead of a Page token, the post-after-rendering checkbox works even if you connect the page afterwards, and a PC without WebView2 opens in the browser instead of showing nothing at all.",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.5.0/files.json",
+  "version": "1.6.1",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.1/BlobForge.zip",
+  "notes": "Your finished videos now survive an update. Until this release every update deleted them, because they were being saved inside the app's own folder -- the one the updater replaces. Also: a longer reel now imports (the twelve-scene limit is twenty, and six explanations a side instead of four), a Share button posts a finished video to Discord, and the Home page can show a short notice.",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.1/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "cd741de99aa4b4609577e9809c7ce756aede8597c4e2ada244b2a6857a8d477b",
-  "zip_size": 573306322
+  "sha256": "1b9f68a05fcd59ded9e0fe2f3630db9ab9e11c7865509d18545b0bc4447fa0fa",
+  "zip_size": 573332763
 }
