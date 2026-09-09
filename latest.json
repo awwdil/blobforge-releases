@@ -1,9 +1,9 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.1/BlobForge.zip",
-  "notes": "Your finished videos now survive an update. Until this release every update deleted them, because they were being saved inside the app's own folder -- the one the updater replaces. Also: a longer reel now imports (the twelve-scene limit is twenty, and six explanations a side instead of four), a Share button posts a finished video to Discord, and the Home page can show a short notice.",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.1/files.json",
+  "version": "1.6.2",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.2/BlobForge.zip",
+  "notes": "Fixes a PC that could not update at all -- it was failing on a certificate check that had nothing to do with BlobForge. If you saw 'CERTIFICATE_VERIFY_FAILED' when pressing Update, install this once by hand and the button will work from then on.",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.2/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "1b9f68a05fcd59ded9e0fe2f3630db9ab9e11c7865509d18545b0bc4447fa0fa",
-  "zip_size": 573332763
+  "sha256": "2886c0bb9e2f3b67ee186f00c1c063a9226c264c34d49444252eb8d20a66092d",
+  "zip_size": 573332643
 }
