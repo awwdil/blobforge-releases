@@ -1,9 +1,9 @@
 {
-  "version": "1.6.2",
-  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.2/BlobForge.zip",
-  "notes": "Fixes a PC that could not update at all -- it was failing on a certificate check that had nothing to do with BlobForge. If you saw 'CERTIFICATE_VERIFY_FAILED' when pressing Update, install this once by hand and the button will work from then on.",
-  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.2/files.json",
+  "version": "1.6.3",
+  "url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.3/BlobForge.zip",
+  "notes": "Download saves the video again; highlighted caption words no longer run into their neighbours.",
+  "files_url": "https://github.com/awwdil/blobforge-releases/releases/download/v1.6.3/files.json",
   "blob_base": "https://github.com/awwdil/blobforge-releases/releases/download/blobs",
-  "sha256": "2886c0bb9e2f3b67ee186f00c1c063a9226c264c34d49444252eb8d20a66092d",
-  "zip_size": 573332643
+  "sha256": "301f44840325d57754055128f6db66a35527a1095b278d56c2724986c5601ee4",
+  "zip_size": 573344918
 }
